@@ -2,9 +2,9 @@
 Simple script to dump the text from a pdf file
 
 ## Requirements
-Install PyPDF2
+Install pdfminer3k
 ```sh
-pip3 install pypdf2
+pip3 install pdfminer3k
 ```
 
 ## Run
